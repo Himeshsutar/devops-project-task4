@@ -129,6 +129,9 @@ All steps were documented clearly using markdown in a single README.md file to e
 
 ✅ Result
 
+
+![Screenshot 2025-04-11 111955](https://github.com/user-attachments/assets/cd16dcea-6bfa-4f11-adf0-4b95ee922d9e)
+
 Successfully built a version-controlled DevOps project using Git. Demonstrated a full Git workflow including repo setup, branching, pull requests, commit standards, file exclusions, version tagging, and markdown documentation. All operations are tracked and versioned through Git, establishing best practices for collaborative DevOps work.
 
 
